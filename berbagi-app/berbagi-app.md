@@ -1,9 +1,15 @@
-# Berbagi App
+<p align="center">
+   <img width="200" src="images/Berbagi-logo.png">
+</p>
+  
+  
+  
 ## About Berbagi App
 Berbagi is an application to help people who want to donate their goods to find the people who need the donations, This is a project for Software Engineering Competition at Telkom University GEMASTIK VIII.
   
   
-Date: August 2020
+**Tech Stack**: React JS, Tailwind CSS, Redux, Ionic, Express JS, MongoDB.  
+**Date**: August 2020.  
 
 ## Preview
 
