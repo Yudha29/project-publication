@@ -15,3 +15,6 @@ Space Invader is a game build with CSS, HTML, and Javascript, this game looks li
 - Avoid enemies and asteroids.
 - Press :arrow_left: :arrow_up: :arrow_down: :arrow_right: to control the plane.
 - Press space bar to shoot the enemy. 
+
+## Source
+https://github.com/Yudha29/space-invader
