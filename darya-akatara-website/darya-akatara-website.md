@@ -10,25 +10,25 @@ Darya Akatara is one of Sthira Nusantara's branches.
 
 ### On Boarding Section
 
-![On Boarding](https://github.com/Yudha29/project-publication/blob/main/darya-akatara-website/images/home.png "On Boarding")
+![On Boarding](https://raw.githubusercontent.com/Yudha29/project-publication/main/darya-akatara-website/images/home.png "On Boarding")
 
 ### About Section
 
-<img src="https://github.com/Yudha29/project-publication/blob/main/darya-akatara-website/images/about.png">
+<img src="https://raw.githubusercontent.com/Yudha29/project-publication/main/darya-akatara-website/images/about.png" alt="about">
 
 ### Service Section
 
-<img src="https://github.com/Yudha29/project-publication/blob/main/darya-akatara-website/images/service.png">
+<img src="https://raw.githubusercontent.com/Yudha29/project-publication/main/darya-akatara-website/images/service.png" alt="about">
 
 ### Why Us Section
 
-<img src="https://github.com/Yudha29/project-publication/blob/main/darya-akatara-website/images/why-us.png">
-<img src="https://github.com/Yudha29/project-publication/blob/main/darya-akatara-website/images/application.png">
+<img src="https://raw.githubusercontent.com/Yudha29/project-publication/main/darya-akatara-website/images/why-us.png" alt="why us">
+<img src="https://raw.githubusercontent.com/Yudha29/project-publication/main/darya-akatara-website/images/application.png" alt="application">
 
 ### Contact Us Section
 
-<img src="https://github.com/Yudha29/project-publication/blob/main/darya-akatara-website/images/contact-us.png">
+<img src="https://raw.githubusercontent.com/Yudha29/project-publication/main/darya-akatara-website/images/contact-us.png" alt="contact">
 
 ### Footer Section
 
-<img src="https://github.com/Yudha29/project-publication/blob/main/darya-akatara-website/images/footer.png">
+<img src="https://raw.githubusercontent.com/Yudha29/project-publication/main/darya-akatara-website/images/footer.png" alt="footer">
