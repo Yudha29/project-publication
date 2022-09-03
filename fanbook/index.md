@@ -24,4 +24,4 @@ An application for mobile programming assignment
 
 ### Idol Page
 
-![Sign Up](https://raw.githubusercontent.com/Yudha29/project-publication/main/fanbook/images/home.png)
+![Sign Up](https://raw.githubusercontent.com/Yudha29/project-publication/main/fanbook/images/blackpink.png)
